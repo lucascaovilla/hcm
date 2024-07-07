@@ -1,8 +1,10 @@
-<h1 align="center">Dotnet 8 bacic dev environment </h1>
-<h3>A Dotnet 8 dev environment ready to run on existing applications or to create a new application.</h3>
+# HCM - Hydraulic Cylinder Maintance
+<img alt="Static Badge" src="https://img.shields.io/badge/STATUS-UNDER%20DEVELOPMENT-darkgreen">
 
 # ✔️ Techs:
 - `Dotnet`
+- `Angular`
+- `Postgres`
 - `Docker`
 
 # :hammer: How to run
